@@ -260,5 +260,4 @@ const mockData = [
         "content": "ABOARD THE USS DWIGHT D. EISENHOWER IN THE RED SEA (AP) The USS Dwight D. Eisenhower may be one of the oldest aircraft carriers in the U.S. Navy, but its still fighting despite repeated false claims … [+5582 chars]"
       }
 ]
-
-export default mockData
+export default mockData 
