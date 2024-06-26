@@ -1,0 +1,23 @@
+.detailed{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 5rem;
+    align-items: center;
+    background-color: purple;
+}
+.detailed >img{
+    width: 40rem;
+    padding-bottom: 1rem;
+}
+.article{
+    text-align: center;
+    width: 25rem;
+}
+a{
+    color: greenyellow;
+}
