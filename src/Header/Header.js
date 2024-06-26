@@ -1,9 +1,15 @@
 import './Header.css'
-function Header(){
+import Select from '../Select/Select'
+function Header({onOptionChange}){
     return(
-        <>
-        <h1>Top News Headlines</h1>
-        </>
+        <div className='header'>
+            <div>
+            <h1>Top News Headlines</h1>
+            </div>
+            <div>
+            <Select onOptionChange={onOptionChange}/>
+            </div>
+        </div>
     )
 }
 export default Header
