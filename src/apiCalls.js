@@ -10,7 +10,7 @@ async function getArticles() {
 
         console.log(data);
 
-        return data;
+        return data.articles;
     } catch (error) {
         console.error("Something went wrong:", error.message);
         throw error;
