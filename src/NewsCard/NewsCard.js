@@ -1,4 +1,5 @@
 import './NewsCard.css'
+import { Link } from 'react-router-dom';
 function NewsCard({ data }) {
   const formatDate = (dateString) => {
     const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric' };
@@ -6,9 +7,10 @@ function NewsCard({ data }) {
   };
     return (
       <div className="news-card">
-        <div className='article'>
-        <h4>{data.title}</h4>
+        <div className="article" key={data.title}>
+        <h4><Link to={`/article/${data.title}`}>{data.title}</Link></h4>
         <p>{formatDate(data.publishedAt)}</p>
+        <p>{data.description}</p>
         </div>
         <img src={data.urlToImage} alt={data.title} />
       </div>
