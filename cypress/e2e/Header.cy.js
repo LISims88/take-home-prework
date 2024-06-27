@@ -3,7 +3,7 @@ describe('header component', () => {
     cy.intercept("GET", "https://newsapi.org/v2/top-headlines?country=us&apiKey=4f00be73cb2d4b898cc2bbd0e7b852d6", {
       statusCode: 200,
       fixture: 'news-api.json'
-    }).as('july27');
+    }).as('june27');
     cy.visit('http://localhost:3000')
   })
 
