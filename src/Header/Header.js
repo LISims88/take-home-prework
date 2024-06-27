@@ -4,7 +4,7 @@ function Header({onOptionChange}){
     return(
         <div className='header'>
             <div>
-            <h1>Top News Headlines</h1>
+            <h1>Top News Headlines Today</h1>
             </div>
             <div>
             <Select onOptionChange={onOptionChange}/>
