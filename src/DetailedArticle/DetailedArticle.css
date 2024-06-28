@@ -13,6 +13,8 @@
 .detailed >img{
     width: 40rem;
     padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 .article{
     text-align: center;

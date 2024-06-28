@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Stephen Swanson, WCCO Staff",
+        "title": "Video shows iconic home on Rapidan Dam partially collapsing into Blue Earth River in southern Minnesota - CBS Minnesota",
+        "description": "The raging Blue Earth River, which caused an abutment of the 114-year-old Rapidan Dam to partially fail, has now swallowed most of the iconic home that sits on a nearby embankment.",
+        "url": "https://www.cbsnews.com/minnesota/news/rapidan-dam-home-partially-collapses-blue-earth-river-southern-minnesota/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/26/132a40fb-a203-4964-bbcc-cafe25d6bdb2/thumbnail/1200x630/db4362e5cb34fbc875b4272e6f5e3124/white-house-on-rapidan-dam-falls-into-blue-earth-river-2.jpg?v=d44ea471ad55b1f821a0763c85064960",
+        "publishedAt": "2024-06-26T14:10:01Z",
+        "content": "RAPIDAN TOWNSHIP, Minn. — The raging Blue Earth River, which caused an abutment of the 114-year-old Rapidan Dam to partially fail, has now swallowed most of the iconic home that sits on a nearby emba… [+2287 chars]"
+      }
+    ]
+}
