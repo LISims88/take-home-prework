@@ -2,7 +2,7 @@
 
 The Purpose of this project was to test my ability to thoroughly plan, build and execute a simple React application utilizing a News API.
 
-[![Top News Headlines Today](https://github.com/LISims88/take-home-prework/blob/main/src/Take%20Home.png)]
+![Top News Headlines Today](https://github.com/LISims88/take-home-prework/blob/main/src/Take%20Home.png)
 
 ## Run Program
 
